@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+void main()/*something soog*/
 {
     int base,height,switch_variable;
     int radius;
